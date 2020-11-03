@@ -1,5 +1,5 @@
 package Data;
 
 public enum Item {
-    monkey,box;
+    monkey,box,wall,banana;
 }
