@@ -16,7 +16,6 @@ public interface Action {
      * 猴子推着箱子从a走向b
      * @param a 位置
      * @param b 位置
-     * @return 操作完成返回true,否则返回false
      */
     public State Pushbox(Position a, Position b);
 

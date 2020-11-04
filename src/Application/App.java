@@ -19,7 +19,7 @@ public class App {
     Fruit fruit;
     Position position;
     Item item;
-
+    char b;
     public static void main(String[] arg0){
         Hang hang1 = new Hang(Fruit.banana,Position.B,true);
         Holds holds1 = new Holds(Animal.monkey,false);

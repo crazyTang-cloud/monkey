@@ -14,11 +14,6 @@ public class MonckeyAction implements Action{
 //    Site monckeySite;
 //    Site boxSite;
 //
-//    Animal animal;
-//    Fruit fruit;
-//    Position position;
-//    Item item;
-//
 //    public  MonckeyAction(Hang hang,Holds holds,On on,Site monckeySite,Site boxSite,Animal animal,Fruit fruit,Position position,Item item){
 //        this.hang = hang;
 //        this.holds = holds;

@@ -5,6 +5,7 @@ import state.State;
 
 public class Move {
     //State state;
+    char n;
     MonckeyAction monckeyAction;
     public State move(State state){
         monckeyAction = new MonckeyAction(state);
